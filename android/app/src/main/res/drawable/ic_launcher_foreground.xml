@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- voice waveform bars -->
+    <path
+        android:pathData="M30,40 L30,48 M42,35 L42,51 M66,35 L66,51 M78,40 L78,48"
+        android:strokeColor="#C7D2FE"
+        android:strokeWidth="8"
+        android:strokeLineCap="round" />
+    <!-- download arrow -->
+    <path
+        android:pathData="M54,27 L54,77 M38,63 L54,79 L70,63"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
